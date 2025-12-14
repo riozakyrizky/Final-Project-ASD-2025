@@ -1,12 +1,12 @@
 # Public Transportation Route System Using Graph Algorithm
 Subject: ES234317 - Algorithm and Data Structure (ASD)
-#
+
 Lecturer: Renny Pradina Kusumawardani
-#
+
 Class: Q / IUP
-#
+
 Group: 2
-#
+
 Team Members:
 1. 5026241047, Riozaky Muhammad Rizky
 2. 5026241049, Najla Hanasyifa
@@ -35,9 +35,9 @@ The system models the Suroboyo Bus network as a weighted, undirected graph where
 
 # Other Groups' Repository Link
 Group 1: github.com/yelllsit-glitch/Final-Project-ASD
-#
+
 Group 3: github.com/strupwa/RevASD
-#
+
 Group 4: github.com/Stephanie020207/Connect4AIGame
-#
+
 Group 5: github.com/Daffa-001/ASD-IUP-FinalProject
