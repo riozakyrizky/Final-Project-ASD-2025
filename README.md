@@ -33,6 +33,13 @@ The system models the Suroboyo Bus network as a weighted, undirected graph where
 5. Depth-first traversal via recursion supports the “tree structure” visualization of the network. (Implemented in Graph.java)
 6. System flow and integration are coordinated through a menu-based controller that initializes data and constructs the network by repeatedly adding edges. (Implemented in FinalProject.java)
 
+# Program Screenshots
+<img width="1552" height="981" alt="image" src="https://github.com/user-attachments/assets/9c14b948-0bbc-4986-a87b-71dfd7838b17" />
+
+<img width="479" height="666" alt="image" src="https://github.com/user-attachments/assets/a13284cf-3f7a-444a-bee7-2820c8ca9c2b" />
+
+<img width="1153" height="672" alt="image" src="https://github.com/user-attachments/assets/3fd0c1fc-66ef-43c4-abdb-2cb6418ec289" />
+
 # Other Groups' Repository Link
 Group 1: github.com/yelllsit-glitch/Final-Project-ASD
 
